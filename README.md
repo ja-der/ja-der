@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About 
+I'm currently a first-year computer science student at UO with a strong interest in computers, technology, and solving all sorts of puzzles. 
+My experience in software development is lacking yet learning is a passion and I endeavor to explore the field of computing to furthur my knowledge. Check back in a couple of months time and you may be surprised by how much I can accomplish. 
+
+
