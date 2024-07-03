@@ -3,8 +3,8 @@
 **`Software Developer @ StatCan`**
 **`CS Student @ uOttawa`**
 
-👩🏻‍💻 Software Developer on a tech journey <br/>
-👩🏻‍🎓 Studying Computer Science at the University of Ottawa, Canada<br/>
+🛸 Software Developer on a tech journey <br/>
+📚 Studying Computer Science at the University of Ottawa, Canada<br/>
 💭 Currently interested and learning about machine learning
 
 ![](https://github-readme-stats.vercel.app/api?username=ja-der&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
