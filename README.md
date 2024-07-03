@@ -1,6 +1,6 @@
 # 😃 Hi, I'm Jason!
 
-**`Software Developer @ StatCan`**
+**`Software Developer Intern @ StatCan`**
 **`CS Student @ uOttawa`**
 
 🛸 Software Developer on a tech journey <br/>
