@@ -2,7 +2,7 @@
 
 **`CS Student @ uOttawa`**
 
-🛸 On a continuous journey in the tech world <br/>
+🛸 On an exciting journey of learning and discovery in the tech world <br/>
 📚 Studying Computer Science at the University of Ottawa, Canada <br/>
 💭 Currently interested and learning about machine learning
 
