@@ -1,13 +1,14 @@
 # 😃 Hi, I'm Jason!
 
 **`CS Student @ uOttawa`**
-
+<!---
 🛸 On an exciting journey of learning and discovery in the tech <br/>
 📚 Studying Computer Science <br/>
 💭 Currently learning about machine learning
 
 ![](https://github-readme-stats.vercel.app/api?username=ja-der&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+-->
 ## My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
