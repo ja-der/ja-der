@@ -1,7 +1,8 @@
 # 😃 Hi, I'm Jason!
 
-**`CS Student @ uOttawa`**
 <!---
+**`CS Student @ uOttawa`**
+
 🛸 On an exciting journey of learning and discovery in the tech <br/>
 📚 Studying Computer Science <br/>
 💭 Currently learning about machine learning
