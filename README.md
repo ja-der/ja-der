@@ -9,6 +9,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=ja-der&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 -->
+
+<!---
 ## My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,6 +25,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+-->
 
 ## Connect With Me
 
