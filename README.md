@@ -2,7 +2,7 @@
 I focus on building correct, performant, and maintainable software through hands-on projects.
 
 Full-stack & Cloud experience ⚙️  
-Learning ML/AI 🧠
+Exploring ML/AI integration in real-world applications 🧠
 <!---
 # 😃 Hi, I'm Jason!
 
